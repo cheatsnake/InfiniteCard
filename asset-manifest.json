@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InfiniteCard/static/css/main.19d89ea7.chunk.css",
+    "main.js": "/InfiniteCard/static/js/main.d5ceb7da.chunk.js",
+    "main.js.map": "/InfiniteCard/static/js/main.d5ceb7da.chunk.js.map",
+    "runtime-main.js": "/InfiniteCard/static/js/runtime-main.0d37f803.js",
+    "runtime-main.js.map": "/InfiniteCard/static/js/runtime-main.0d37f803.js.map",
+    "static/js/2.c332e679.chunk.js": "/InfiniteCard/static/js/2.c332e679.chunk.js",
+    "static/js/2.c332e679.chunk.js.map": "/InfiniteCard/static/js/2.c332e679.chunk.js.map",
+    "index.html": "/InfiniteCard/index.html",
+    "static/css/main.19d89ea7.chunk.css.map": "/InfiniteCard/static/css/main.19d89ea7.chunk.css.map",
+    "static/js/2.c332e679.chunk.js.LICENSE.txt": "/InfiniteCard/static/js/2.c332e679.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d37f803.js",
+    "static/js/2.c332e679.chunk.js",
+    "static/css/main.19d89ea7.chunk.css",
+    "static/js/main.d5ceb7da.chunk.js"
+  ]
+}
